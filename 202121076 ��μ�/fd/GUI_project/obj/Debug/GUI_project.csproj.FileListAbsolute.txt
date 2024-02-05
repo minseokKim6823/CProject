@@ -1,0 +1,169 @@
+C:\Users\vhtn8\source\repos\GUI_project\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\vhtn8\source\repos\GUI_project\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\vhtn8\source\repos\GUI_project\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\vhtn8\source\repos\GUI_project\GUI_project\obj\Debug\GUI_project.csproj.AssemblyReference.cache
+C:\Users\vhtn8\source\repos\GUI_project\GUI_project\obj\Debug\GUI_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\vhtn8\source\repos\GUI_project\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\vhtn8\source\repos\GUI_project\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\vhtn8\source\repos\GUI_project\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\vhtn8\source\repos\GUI_project\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\vhtn8\source\repos\GUI_project\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\vhtn8\source\repos\GUI_project\GUI_project\obj\Debug\GUI_project.pdb
+C:\Users\vhtn8\source\repos\GUI_project\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\Administrator\Desktop\GUI_project (2)\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\Administrator\Desktop\GUI_project (2)\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\Administrator\Desktop\GUI_project (2)\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\Administrator\Desktop\GUI_project (2)\GUI_project\obj\Debug\GUI_project.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GUI_project (2)\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\Administrator\Desktop\GUI_project (2)\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\Administrator\Desktop\GUI_project (2)\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GUI_project (2)\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\GUI_project (2)\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GUI_project (2)\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\Administrator\Desktop\GUI_project (2)\GUI_project\obj\Debug\GUI_project.pdb
+C:\Users\김민석\Desktop\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.csproj.AssemblyReference.cache
+C:\Users\김민석\Desktop\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\김민석\Desktop\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\김민석\Desktop\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\김민석\Desktop\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\김민석\Desktop\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\김민석\Desktop\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\김민석\Desktop\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.pdb
+C:\Users\김민석\Desktop\진짜\GUI_project (2)\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\김민석\Desktop\진짜\GUI_project (2)\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\김민석\Desktop\진짜\GUI_project (2)\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.csproj.AssemblyReference.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.FormAdmin.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\vhtn8\OneDrive\바탕 화면\진짜\GUI_project (2)\GUI_project\obj\Debug\GUI_project.pdb
+C:\Users\김민석\Desktop\최신화\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\김민석\Desktop\최신화\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\김민석\Desktop\최신화\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\김민석\Desktop\최신화\GUI_project\obj\Debug\GUI_project.csproj.AssemblyReference.cache
+C:\Users\김민석\Desktop\최신화\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\김민석\Desktop\최신화\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\김민석\Desktop\최신화\GUI_project\obj\Debug\GUI_project.FormAdmin.resources
+C:\Users\김민석\Desktop\최신화\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\김민석\Desktop\최신화\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\김민석\Desktop\최신화\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\김민석\Desktop\최신화\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\김민석\Desktop\최신화\GUI_project\obj\Debug\GUI_project.pdb
+C:\Users\김민석\Desktop\최신화\GUI_project\obj\Debug\GUI_project.Form3.resources
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\obj\Debug\GUI_project.csproj.AssemblyReference.cache
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\obj\Debug\GUI_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\obj\Debug\GUI_project.Form3.resources
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\obj\Debug\GUI_project.FormAdmin.resources
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\obj\Debug\GUI_project.pdb
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\Nextop\Downloads\최신화\최신화\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\obj\Debug\GUI_project.csproj.AssemblyReference.cache
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\obj\Debug\GUI_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\obj\Debug\GUI_project.Form3.resources
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\obj\Debug\GUI_project.FormAdmin.resources
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\Nextop\Downloads\최신화123\최신화\GUI_project\obj\Debug\GUI_project.pdb
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\obj\Debug\GUI_project.csproj.AssemblyReference.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\obj\Debug\GUI_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\obj\Debug\GUI_project.Form3.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\obj\Debug\GUI_project.FormAdmin.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\obj\Debug\GUI_project.pdb
+C:\Users\vhtn8\OneDrive\바탕 화면\최신화123\최신화\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\obj\Debug\GUI_project.csproj.AssemblyReference.cache
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\obj\Debug\GUI_project.Form3.resources
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\obj\Debug\GUI_project.FormAdmin.resources
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\김민석\Desktop\최신화 (2)\GUI_project\obj\Debug\GUI_project.pdb
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\obj\Debug\GUI_project.csproj.AssemblyReference.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\obj\Debug\GUI_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\obj\Debug\GUI_project.Form3.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\obj\Debug\GUI_project.FormAdmin.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\vhtn8\OneDrive\바탕 화면\asdf\GUI_project\obj\Debug\GUI_project.pdb
+C:\Users\김민석\Desktop\asdf\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\김민석\Desktop\asdf\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\김민석\Desktop\asdf\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\김민석\Desktop\asdf\GUI_project\obj\Debug\GUI_project.csproj.AssemblyReference.cache
+C:\Users\김민석\Desktop\asdf\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\김민석\Desktop\asdf\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\김민석\Desktop\asdf\GUI_project\obj\Debug\GUI_project.Form3.resources
+C:\Users\김민석\Desktop\asdf\GUI_project\obj\Debug\GUI_project.FormAdmin.resources
+C:\Users\김민석\Desktop\asdf\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\김민석\Desktop\asdf\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\김민석\Desktop\asdf\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\김민석\Desktop\asdf\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\김민석\Desktop\asdf\GUI_project\obj\Debug\GUI_project.pdb
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\obj\Debug\GUI_project.csproj.AssemblyReference.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\obj\Debug\GUI_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\obj\Debug\GUI_project.Form3.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\obj\Debug\GUI_project.FormAdmin.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\vhtn8\OneDrive\바탕 화면\ff\GUI_project\obj\Debug\GUI_project.pdb
+C:\Users\김민석\Desktop\fd\GUI_project\bin\Debug\GUI_project.exe.config
+C:\Users\김민석\Desktop\fd\GUI_project\bin\Debug\GUI_project.exe
+C:\Users\김민석\Desktop\fd\GUI_project\bin\Debug\GUI_project.pdb
+C:\Users\김민석\Desktop\fd\GUI_project\obj\Debug\GUI_project.csproj.AssemblyReference.cache
+C:\Users\김민석\Desktop\fd\GUI_project\obj\Debug\GUI_project.Form1.resources
+C:\Users\김민석\Desktop\fd\GUI_project\obj\Debug\GUI_project.Form2.resources
+C:\Users\김민석\Desktop\fd\GUI_project\obj\Debug\GUI_project.Form3.resources
+C:\Users\김민석\Desktop\fd\GUI_project\obj\Debug\GUI_project.FormAdmin.resources
+C:\Users\김민석\Desktop\fd\GUI_project\obj\Debug\GUI_project.Properties.Resources.resources
+C:\Users\김민석\Desktop\fd\GUI_project\obj\Debug\GUI_project.csproj.GenerateResource.cache
+C:\Users\김민석\Desktop\fd\GUI_project\obj\Debug\GUI_project.csproj.CoreCompileInputs.cache
+C:\Users\김민석\Desktop\fd\GUI_project\obj\Debug\GUI_project.exe
+C:\Users\김민석\Desktop\fd\GUI_project\obj\Debug\GUI_project.pdb
